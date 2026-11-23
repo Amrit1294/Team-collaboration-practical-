@@ -3,11 +3,14 @@
 Project Description
 This repository is created to practice teamwork and version control using Git and GitHub.
 
-Team Contributions
-Team Leader: Repository creation and management 
-Member 1: Project documentation.
-Member 2: Testing and review.
-Member 3: Code development.
+Repository Manager
+Name: Amritpal Singh
 
-Purpose 
-To understand how team members can work together using GitHub.
+Contribution
+- created and managed the GitHub repository.
+- Prepared project documentation.
+- Updates files and committed changes.
+- Practiced version control using GitHub.
+
+Purpose
+To understand how GitHub supports collaboration, file management and version control.
